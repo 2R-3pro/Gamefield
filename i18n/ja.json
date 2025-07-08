@@ -1731,40 +1731,40 @@
             "name": "スーパーミラー"
         },
         {
-            "imageName": "smile-dew",
+            "imageName": "repo5",
             "category": "sundries",
             "ability": "boostHP",
             "abilityValue": 5,
             "price": 1,
             "giftRate": 12,
-            "name": "即時回復Ⅰ"
+            "name": "初級レポート"
         },
         {
-            "imageName": "heart-dew",
+            "imageName": "repo10",
             "category": "sundries",
             "ability": "boostHP",
             "abilityValue": 10,
             "price": 3,
             "giftRate": 8,
-            "name": "即時回復Ⅱ"
+            "name": "中級レポート"
         },
         {
-            "imageName": "romance-water",
+            "imageName": "repo15",
             "category": "sundries",
             "ability": "boostHP",
             "abilityValue": 15,
             "price": 5,
             "giftRate": 4,
-            "name": "アーモンドウォーター"
+            "name": "上級レポート"
         },
         {
-            "imageName": "galaxy-geyser",
+            "imageName": "repo20",
             "category": "sundries",
             "ability": "boostHP",
             "abilityValue": 20,
             "price": 20,
             "giftRate": 1,
-            "name": "しろうとはだまっとれ牛乳"
+            "name": "最上級レポート"
         },
         {
             "imageName": "smile-flower",
