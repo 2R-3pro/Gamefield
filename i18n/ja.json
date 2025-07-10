@@ -1939,7 +1939,7 @@
             "atk": 8,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜岩＞"
+            "name": "＜天星＞"
         },
         {
             "imageName": "flame",
@@ -1948,7 +1948,7 @@
             "atk": 10,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜炎＞"
+            "name": "＜天を焦がす刻＞"
         },
         {
             "imageName": "absorption",
@@ -1968,7 +1968,7 @@
             "isPlusAtk": true,
             "cost": 7,
             "giftRate": 1,
-            "name": "＜流星＞"
+            "name": "＜星、宙より落ち来たる＞"
         },
         {
             "imageName": "waterfall",
@@ -1977,7 +1977,7 @@
             "atk": 25,
             "cost": 12,
             "giftRate": 1,
-            "name": "＜滝＞"
+            "name": "＜万民のカルナバル＞"
         },
         {
             "imageName": "wind",
@@ -2037,7 +2037,7 @@
             "curse": "flash",
             "cost": 3,
             "giftRate": 1,
-            "name": "＜閃光＞"
+            "name": "＜閃光のハサウェイ＞"
         },
         {
             "imageName": "smoke",
@@ -2047,7 +2047,7 @@
             "hitRate": 75,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜煙＞"
+            "name": "＜昇りゆく凶月＞"
         },
         {
             "imageName": "avalanche",
@@ -2067,7 +2067,7 @@
             "hitRate": 25,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜雷＞"
+            "name": "＜奥義・夢想真説＞"
         },
         {
             "imageName": "mudflow",
