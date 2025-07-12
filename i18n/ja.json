@@ -2214,7 +2214,7 @@
             "ability": "boostSomething",
             "abilityValue": 10,
             "appearanceRate": 5,
-            "name": "めぐみの妖精"
+            "name": "小鳥遊ホシノ"
         },
         {
             "imageName": "fire-whisper",
@@ -2694,7 +2694,7 @@
     ],
     "texts": {
         "app": {
-            "title": "ゴッドフィールド"
+            "title": "ゲームフィールド"
         },
         "langNames": {
             "en": "English",
@@ -2810,9 +2810,9 @@
         },
         "home": {
             "design": "設計",
-            "designCredit": "グウジ",
+            "designCredit": "前歯",
             "art": "美術",
-            "artCredit": "あみ",
+            "artCredit": "2R先生",
             "userName": "預言者の名前",
             "setUserName": "生誕する",
             "userNameEmpty": "預言者の名前を<br>入力してください",
@@ -2824,19 +2824,19 @@
             "about": "サービス情報",
             "version": "バージョン {{version}}",
             "soundMaterials": "効果音素材",
-            "soundMaterialsCredit": "ザ・マッチメイカァズ",
+            "soundMaterialsCredit": "ザ・ショケイダイ",
             "ptTranslation": "ポルトガル語翻訳",
-            "ptTranslationCredit": "Phobos & Igoor",
+            "ptTranslationCredit": "Maeba & Teacher",
             "zhHansTranslation": "簡体字中国語翻訳",
-            "zhHansTranslationCredit": "Mea Fanbox Group",
+            "zhHansTranslationCredit": "機械的鉛筆読悪書",
             "frTranslation": "フランス語翻訳",
-            "frTranslationCredit": "Xirnatts",
+            "frTranslationCredit": "Meymon",
             "zhHantTranslation": "繁体字中国語翻訳",
-            "zhHantTranslationCredit": "藤田ちゅえん",
+            "zhHantTranslationCredit": "黒氏",
             "koTranslation": "韓国語翻訳",
-            "koTranslationCredit": "MinJeong",
+            "koTranslationCredit": "Yoripee",
             "ruTranslation": "ロシア語翻訳",
-            "ruTranslationCredit": "Master Cid",
+            "ruTranslationCredit": "sine",
             "privacyPolicy": "プライバシーポリシー",
             "licenses": "ライセンス"
         },
